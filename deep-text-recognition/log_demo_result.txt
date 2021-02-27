@@ -1,0 +1,35 @@
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+demo_image/demo_1.png    	available                	0.9999
+demo_image/demo_2.jpg    	shakeshack               	0.9533
+demo_image/demo_3.png    	london                   	0.9840
+demo_image/demo_4.png    	greenstead               	0.9985
+demo_image/demo_5.png    	toast                    	0.9961
+demo_image/demo_6.png    	merry                    	0.9975
+demo_image/demo_7.png    	underground              	1.0000
+demo_image/demo_8.jpg    	ronaldo                  	0.8388
+demo_image/demo_9.jpg    	bally                    	0.7565
+demo_image/demo_10.jpg   	university               	0.9998
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+demo_image/31130796.png  	elizator                 	0.0139
+demo_image/31197388.png  	sligzess                 	0.0022
+demo_image/31197392.png  	biletss2                 	0.0109
+demo_image/31197394.png  	31197394                 	0.3057
+demo_image/31197395.png  	z1197395                 	0.0081
+demo_image/31197396.png  	31197586                 	0.0367
+demo_image/31197402.png  	31197482                 	0.3833
+demo_image/31197406.png  	31197486                 	0.0676
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+demo_image/31130796.png  	elizator                 	0.0139
+demo_image/31197388.png  	sligzess                 	0.0022
+demo_image/31197392.png  	biletss2                 	0.0109
+demo_image/31197394.png  	31197394                 	0.3057
+demo_image/31197395.png  	z1197395                 	0.0081
+demo_image/31197396.png  	31197586                 	0.0367
+demo_image/31197402.png  	31197482                 	0.3833
+demo_image/31197406.png  	31197486                 	0.0676
