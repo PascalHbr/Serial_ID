@@ -4,7 +4,7 @@ You need a model saved in ../models.
 
 Download model with:
 
-"curl -O -J -L https://uc013f5ffb678053875b37808008.dl.dropboxusercontent.com/cd/0/get/BJx6ipg83PDVASxctfD5-iN3SoWGOGso_Sm4Le_NIESchoGyKFlXUNRuN3Tk9IL-bX-rYSLRhvJ76vKZeW_zRISU7S2kTeQ0eDMYYQ5SWRB_G_Ixm9idWPFFHEzC0b9_ez0/file?_download_id=311912871436862752273396724680060220893539963916345488061336430886&_notify_domain=www.dropbox.com&dl=1"
+"curl -O -J -L https://uc97f437ebc03c4a4491dfe64421.dl.dropboxusercontent.com/cd/0/get/BKEogRzGEL3xm6woeJB_M8u1CdZcwBpgQj78RVGU7xu1exFL2o5zeknr9WC3EG8XgG_0nuwCwA7uOjGMhwycmrbzRFBoUwEl4FOnMXmTEZNmcaSuecevEadFSKTMtFlMg6muDDqCaDpQZmvfglz6qDCO/file?_download_id=14030996444504784793725676232234883445768887723076994877840363146&_notify_domain=www.dropbox.com&dl=1"
 
 For training, run:
 
